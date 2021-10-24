@@ -4,6 +4,7 @@
 - 🏫 Majored in Computer Science at SeoulTech University
 - 🎇 Backend & NLP Developer
 - 🪡 Current learning Huggingface
+- 📧 soos3121@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kangsukmin&count_private=true&show_icons=true&theme=algolia)
 
